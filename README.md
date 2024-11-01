@@ -21,5 +21,6 @@ My name is Tri Nguyen(aka. Shinata). I find myself interested in Machine Learnin
 </a>    
 
 <a href="https://github.com/sh1nata-piash1nlin/VGG-pytorch">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=VGG-pytorch&theme=gotham" />
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=VGG-pytorch&theme=algolia" />
 </a>    
