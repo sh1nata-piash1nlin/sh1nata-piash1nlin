@@ -24,7 +24,11 @@ My name is Tri Nguyen(aka. Shinata). I find myself interested in Machine Learnin
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=VGG-pytorch&theme=maroongold" />
 </a>    
+Transcription
+<a href="https://github.com/sh1nata-piash1nlin/Automatic-Music-Transcription">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=Automatic-Music-Transcription&theme=neon" />
+</a>
 
 <a href="https://github.com/sh1nata-piash1nlin/FasterRCNN">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=FasterRCNN-pytorch&theme=neon" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=FasterRCNN-pytorch&theme=calm_pink" />
 </a>
