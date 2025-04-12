@@ -32,3 +32,7 @@ My name is Tri Nguyen(aka. Shinata). I find myself interested in Machine Learnin
 <a href="https://github.com/sh1nata-piash1nlin/FasterRCNN">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=FasterRCNN-pytorch&theme=neon" />
 </a>
+
+<a href="https://github.com/sh1nata-piash1nlin/Deeplabv3-Pytorch">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=Deeplabv3-pytorch&theme=dracula" />
+</a>
