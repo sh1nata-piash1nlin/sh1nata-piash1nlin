@@ -8,7 +8,6 @@ My name is Tri Nguyen(aka. Shinata). I find myself interested in Machine Learnin
 </a>    
 
 
-
 <a href="https://github.com/sh1nata-piash1nlin/CNN-pytorch">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=CNN-pytorch&theme=highcontrast" />
@@ -35,4 +34,8 @@ My name is Tri Nguyen(aka. Shinata). I find myself interested in Machine Learnin
 
 <a href="https://github.com/sh1nata-piash1nlin/Deeplabv3-Pytorch">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=Deeplabv3-pytorch&theme=dracula" />
+</a>
+
+<a href="https://github.com/sh1nata-piash1nlin/SnakeGame_ReinforcementLearning ">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=SnakeGame_ReinforcementLearning&theme=aura_dark" />
 </a>
