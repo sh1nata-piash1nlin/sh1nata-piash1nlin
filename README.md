@@ -39,3 +39,7 @@ My name is Tri Nguyen(aka. Shinata). I find myself interested in Computer Vision
 <a href="https://github.com/sh1nata-piash1nlin/SnakeGame_ReinforcementLearning ">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=SnakeGame_ReinforcementLearning&theme=aura_dark" />
 </a>
+
+<a href="https://github.com/sh1nata-piash1nlin/Retrieval">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=Retrieval&theme=shadow_red" />
+</a>
