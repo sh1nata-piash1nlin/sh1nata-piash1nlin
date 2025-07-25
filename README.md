@@ -1,5 +1,5 @@
 ### HI THERE 👋👋👋
-My name is Tri Nguyen(aka. Shinata). I find myself interested in Computer VisionVision. <br>
+My name is Shinata. <br>
 
 
 <a href="https://github.com/sh1nata-piash1nlin/Crab-Age-Prediction">
