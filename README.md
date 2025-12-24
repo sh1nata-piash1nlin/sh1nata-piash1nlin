@@ -41,7 +41,7 @@ My name is Shinata. <br>
 </a>
 
 <a href="https://github.com/sh1nata-piash1nlin/Retrieval">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=Retrieval&theme=shadow_red" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=Retrieval&theme=codeSTACKr" />
 </a>
 
 <a href="https://github.com/sh1nata-piash1nlin/ParkingHub-IoT">
