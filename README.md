@@ -30,23 +30,21 @@ My name is **Shinata**.
 </a>
 
 <a href="https://github.com/sh1nata-piash1nlin/Deeplabv3-pytorch/">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=Deeplabv3-pytorch&theme=dracula" />
 </a>
-
-<a href="https://github.com/sh1nata-piash1nlin/SnakeGame_ReinforcementLearning">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=SnakeGame_ReinforcementLearning&theme=aura_dark" />
+<a href="https://github.com/sh1nata-piash1nlin/SnakeGame_ReinforcementLearning/">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=SnakeGame_ReinforcementLearning&theme=onedark" />
 </a>
 
-
-<a href="https://github.com/sh1nata-piash1nlin/Retrieval">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=Retrieval&theme=shadow_red" />
+<a href="https://github.com/sh1nata-piash1nlin/Retrieval/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=Retrieval&theme=cobalt" />
 </a>
 
 <a href="https://github.com/sh1nata-piash1nlin/ParkingHub-IoT">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=ParkingHub-IoT&theme=codeSTACKr" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=ParkingHub-IoT&theme=synthwave" />
 </a>
-
-<br clear="left"/>
 
 ---
 
