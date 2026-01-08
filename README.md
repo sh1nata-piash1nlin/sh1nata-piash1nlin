@@ -41,10 +41,12 @@ My name is **Shinata**.
 <a href="https://github.com/sh1nata-piash1nlin/Retrieval/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=Retrieval&theme=cobalt" />
 </a>
-
 <a href="https://github.com/sh1nata-piash1nlin/ParkingHub-IoT">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=ParkingHub-IoT&theme=synthwave" />
 </a>
 
----
+<a href="https://github.com/sh1nata-piash1nlin/VGCR-Track">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=VGCR-Track&theme=merko" />
+</a>
+
 
