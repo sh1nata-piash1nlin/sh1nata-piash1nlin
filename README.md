@@ -3,7 +3,8 @@ My name is **Shinata**.
 
 ---
 
-## 📌 Featured Projects
+![sh1nata's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sh1nata-piash1nlin&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
 
 <a href="https://github.com/sh1nata-piash1nlin/Crab-Age-Prediction">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=Crab-Age-Prediction&theme=radical" />
