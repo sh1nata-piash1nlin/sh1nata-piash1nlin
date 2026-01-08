@@ -40,10 +40,3 @@ My name is Shinata. <br>
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=SnakeGame_ReinforcementLearning&theme=aura_dark" />
 </a>
 
-<a href="https://github.com/sh1nata-piash1nlin/Retrieval">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=Retrieval&theme=shadow_red" />
-</a>
-
-<a href="https://github.com/sh1nata-piash1nlin/ParkingHub-IoT">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1nata-piash1nlin&repo=ParkingHub-IoT&theme=codeSTACKr" />
-</a>
