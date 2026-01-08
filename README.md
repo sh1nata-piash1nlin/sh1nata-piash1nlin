@@ -57,4 +57,3 @@ My name is **Shinata**.
 
 ---
 
-✨ *More projects available on my GitHub profile.*
